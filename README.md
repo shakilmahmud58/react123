@@ -1,3 +1,12 @@
+# BUILD YOUR DEV TEAM
+
+## Speciality of our web site
+- you can select as many as you want
+- you can see their salary and other details
+- It will be a easy process to hire someone
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
