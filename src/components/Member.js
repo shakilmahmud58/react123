@@ -12,7 +12,7 @@ function Member(props) {
         <div>Experience : {props.member.Experience}</div>
         <div>Demand : {props.member.Demand}</div>
         {/* add button */}
-        <button onClick={props.hireMember} className="button"><i class="fas fa-handshake"></i> Hire </button>
+        <button onClick={props.hireMember} className="button"><i className="fas fa-handshake"></i> Hire </button>
     </div>
   );
 }
