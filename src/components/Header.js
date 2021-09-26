@@ -7,7 +7,7 @@ function Header() {
     <div className="header">
        <h1>Build Your Fullstack Developer Team</h1>
        <p>Choose perfect developer for your team, and rock.</p>
-       <div>Total Budget $ 100 Million</div>
+       <div>Total Budget $ 1 Million</div>
     </div>
   );
 }

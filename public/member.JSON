@@ -5,7 +5,7 @@
         "image":"./images/sk1.jpg",
         "Expert" : "PHP",
         "Age" : 23,
-        "Experience" : "2 Years",
+        "Experience" : "1 Year",
         "Demand" : 50000
     },
 
@@ -14,44 +14,99 @@
         "name" :"Sazzad",
         "image":"./images/sd1.jpg",
         "Expert" : "Bootstrap",
-        "Age" : 23,
+        "Age" : 24,
         "Experience" : "2 Years",
-        "Demand" : 50000
+        "Demand" : 30000
     },
     {
         "key" : 3,
         "name" :"Peal",
         "image":"./images/pl1.jpg",
-        "Expert" : "PHP",
-        "Age" : 23,
-        "Experience" : "2 Years",
-        "Demand" : 50000
+        "Expert" : "Javascript",
+        "Age" : 22,
+        "Experience" : "3 Years",
+        "Demand" : 55000
     },
     {
         "key" : 4,
         "name" :"Shihab",
         "image":"./images/sk2.jpg",
-        "Expert" : "PHP",
-        "Age" : 23,
-        "Experience" : "2 Years",
-        "Demand" : 50000
+        "Expert" : "VueJs",
+        "Age" : 26,
+        "Experience" : "1 Years",
+        "Demand" : 60000
     },
     {
         "key" : 5,
         "name" :"Sakib",
         "image":"./images/sd2.jpg",
-        "Expert" : "PHP",
+        "Expert" : "Python",
         "Age" : 23,
         "Experience" : "2 Years",
-        "Demand" : 50000
+        "Demand" : 65000
     },
     {
-        "key" : 4,
+        "key" : 6,
         "name" :"Rose",
         "image":"./images/pl2.jpg",
+        "Expert" : "C#",
+        "Age" : 21,
+        "Experience" : "1 Years",
+        "Demand" : 45000
+    },
+    {
+        "key" : 7,
+        "name" :"Shakil",
+        "image":"./images/sk1.jpg",
         "Expert" : "PHP",
         "Age" : 23,
-        "Experience" : "2 Years",
+        "Experience" : "1 Year",
         "Demand" : 50000
+    },
+
+    {
+        "key" : 8,
+        "name" :"Sazzad",
+        "image":"./images/sd1.jpg",
+        "Expert" : "Bootstrap",
+        "Age" : 24,
+        "Experience" : "2 Years",
+        "Demand" : 30000
+    },
+    {
+        "key" : 9,
+        "name" :"Peal",
+        "image":"./images/pl1.jpg",
+        "Expert" : "Javascript",
+        "Age" : 22,
+        "Experience" : "3 Years",
+        "Demand" : 55000
+    },
+    {
+        "key" : 10,
+        "name" :"Shihab",
+        "image":"./images/sk2.jpg",
+        "Expert" : "VueJs",
+        "Age" : 26,
+        "Experience" : "1 Years",
+        "Demand" : 60000
+    },
+    {
+        "key" : 11,
+        "name" :"Sakib",
+        "image":"./images/sd2.jpg",
+        "Expert" : "Python",
+        "Age" : 23,
+        "Experience" : "2 Years",
+        "Demand" : 65000
+    },
+    {
+        "key" : 12,
+        "name" :"Rose",
+        "image":"./images/pl2.jpg",
+        "Expert" : "C#",
+        "Age" : 21,
+        "Experience" : "1 Years",
+        "Demand" : 45000
     }
 ]
