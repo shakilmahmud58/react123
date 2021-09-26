@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.body{
+  display:flex;
+  margin:10px;
+}
+.memberlist{
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  grid-gap:10px;
+  width: 80%;
+}
+.selected{
+  padding-left: 20px;
+}
