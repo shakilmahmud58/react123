@@ -2,7 +2,7 @@
 import '../css/membername.css';
 
 function MemberName(props){
-    console.log(props);
+    //console.log(props);
     return (
     <div className="membername">  
         {props.name}

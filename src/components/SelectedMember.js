@@ -3,7 +3,6 @@ import '../css/selectedmember.css';
 import MemberName from './MemberName';
 
 function SelectedMember(props) {
-    console.log(props);
     return (
     <div>
         <div>Selected Member Number : {props.number}</div>
