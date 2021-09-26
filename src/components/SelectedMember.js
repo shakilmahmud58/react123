@@ -1,8 +1,7 @@
-//import { useState } from 'react'
+//import css file
 import '../css/selectedmember.css';
 
 function SelectedMember(props) {
-    // const [number,SetNumber] = useState(0);
     console.log(props);
     return (
     <div className="App">
@@ -12,5 +11,7 @@ function SelectedMember(props) {
     </div>
   );
 }
+
+//export the component
 
 export default SelectedMember;
